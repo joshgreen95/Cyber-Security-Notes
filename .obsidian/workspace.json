@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7c2cef450b261027",
+        "id": "37adc83d724c7742",
         "type": "tabs",
         "children": [
           {
-            "id": "de234125c29e33d4",
+            "id": "a565071126894c73",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "CBBH/Notes/Exploits/BruteForce.md",
-                "staged": false
+                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md"
+              }
             }
           },
           {
@@ -150,15 +155,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de234125c29e33d4",
+  "active": "a565071126894c73",
   "lastOpenFiles": [
+    "CPTS/Cheat Sheets/Windows",
+    "CPTS/Cheat Sheets/Linux",
+    "CBBH/Cheat Sheets/Login Brute ForcingH.md",
+    "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+    "CPTS/Notes/Windows/AD",
+    "CPTS/Notes/Linux",
+    "CPTS/Notes/Windows",
+    "CPTS/Cheat Sheets",
+    "CPTS/Notes",
+    "CPTS",
+    "CBBH/Cheat Sheets/Google Dorkin.md",
+    "CBBH/Cheat Sheets/Requests.md",
+    "CBBH/Cheat Sheets/SQL Injection.md",
+    "CBBH/Cheat Sheets/Javascript Deobfuscation.md",
+    "CBBH/Cheat Sheets/XSS - Cheat Sheet.md",
+    "CBBH/Cheat Sheets/SQLMAP.md",
+    "CBBH/Notes/Tools/SQL MAP.md",
+    "CBBH/Notes/Exploits/SQL Injections.md",
     "CBBH/Notes/Exploits/BruteForce.md",
     "CBBH/Notes/Information Gathering/Recon.md",
-    "CBBH/Notes/Tools/SQL MAP.md",
     "CBBH/Notes/Exploits/XSS.md",
-    "CBBH/Notes/Exploits/SQL Injections.md",
-    "CBBH/Cheat Sheets/SQLMAP.md",
-    "CBBH/Cheat Sheets/SQL Injection.md",
     "CBBH/Notes/Tools"
   ]
 }
