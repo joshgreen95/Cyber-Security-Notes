@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+                "file": "CBBH/Notes/Exploits/Command Injection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+                "file": "CBBH/Notes/Exploits/Command Injection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+                "file": "CBBH/Notes/Exploits/Command Injection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPTS/Notes/Windows/AD/Intro to Active Directory.md"
+                "file": "CBBH/Notes/Exploits/Command Injection.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "a565071126894c73",
   "lastOpenFiles": [
+    "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+    "CBBH/Notes/Exploits/Command Injection.md",
     "CPTS/Cheat Sheets/Windows",
     "CPTS/Cheat Sheets/Linux",
     "CBBH/Cheat Sheets/Login Brute ForcingH.md",
-    "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
     "CPTS/Notes/Windows/AD",
     "CPTS/Notes/Linux",
     "CPTS/Notes/Windows",
