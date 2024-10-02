@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBBH/Notes/Exploits/Command Injection.md",
+                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/Notes/Exploits/Command Injection.md",
+                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/Notes/Exploits/Command Injection.md",
+                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Notes/Exploits/Command Injection.md"
+                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md"
               }
             }
           },
@@ -157,8 +157,18 @@
   },
   "active": "a565071126894c73",
   "lastOpenFiles": [
-    "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
+    "CBBH/Notes/Exploits/File Upload Attacks.md",
     "CBBH/Notes/Exploits/Command Injection.md",
+    "CBBH/Notes/Exploits/SQL Injections.md",
+    "CBBH/Notes/Exploits/BruteForce.md",
+    "CBBH/Cheat Sheets/Command Injection.md",
+    "CBBH/Cheat Sheets/SQL Injection.md",
+    "CBBH/Notes/Exploits/XSS.md",
+    "CBBH/Notes/Web Requests/HTTPS.md",
+    "CBBH/Notes/Web Requests/HTTP Requests.md",
+    "CBBH/Notes/Tools/SQL MAP.md",
+    "CBBH/Notes/Information Gathering/Recon.md",
+    "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
     "CPTS/Cheat Sheets/Windows",
     "CPTS/Cheat Sheets/Linux",
     "CBBH/Cheat Sheets/Login Brute ForcingH.md",
@@ -170,15 +180,9 @@
     "CPTS",
     "CBBH/Cheat Sheets/Google Dorkin.md",
     "CBBH/Cheat Sheets/Requests.md",
-    "CBBH/Cheat Sheets/SQL Injection.md",
     "CBBH/Cheat Sheets/Javascript Deobfuscation.md",
     "CBBH/Cheat Sheets/XSS - Cheat Sheet.md",
     "CBBH/Cheat Sheets/SQLMAP.md",
-    "CBBH/Notes/Tools/SQL MAP.md",
-    "CBBH/Notes/Exploits/SQL Injections.md",
-    "CBBH/Notes/Exploits/BruteForce.md",
-    "CBBH/Notes/Information Gathering/Recon.md",
-    "CBBH/Notes/Exploits/XSS.md",
     "CBBH/Notes/Tools"
   ]
 }

