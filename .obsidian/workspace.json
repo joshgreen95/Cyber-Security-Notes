@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
+                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
+                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md",
+                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Cheat Sheets/Login Brute ForcingH.md"
+                "file": "CBBH/Notes/Exploits/File Upload Attacks.md"
               }
             }
           },
@@ -157,8 +157,11 @@
   },
   "active": "a565071126894c73",
   "lastOpenFiles": [
-    "CBBH/Notes/Exploits/File Upload Attacks.md",
     "CBBH/Notes/Exploits/Command Injection.md",
+    "CBBH/Notes/Exploits/File Upload Attacks.md",
+    "CBBH/Cheat Sheets/Login Brute ForcingH.md",
+    "CBBH/Pasted image 20241002212303.png",
+    "CBBH/Cheat Sheets/File Upload Attacks.md",
     "CBBH/Notes/Exploits/SQL Injections.md",
     "CBBH/Notes/Exploits/BruteForce.md",
     "CBBH/Cheat Sheets/Command Injection.md",
@@ -171,7 +174,6 @@
     "CPTS/Notes/Windows/AD/Intro to Active Directory.md",
     "CPTS/Cheat Sheets/Windows",
     "CPTS/Cheat Sheets/Linux",
-    "CBBH/Cheat Sheets/Login Brute ForcingH.md",
     "CPTS/Notes/Windows/AD",
     "CPTS/Notes/Linux",
     "CPTS/Notes/Windows",
