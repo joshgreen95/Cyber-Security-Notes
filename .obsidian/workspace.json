@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
+                "file": "CBBH/Notes/Exploits/Server-Side Attacks.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
+                "file": "CBBH/Notes/Exploits/Server-Side Attacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Upload Attacks.md",
+                "file": "CBBH/Notes/Exploits/Server-Side Attacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Upload Attacks.md"
+                "file": "CBBH/Notes/Exploits/Server-Side Attacks.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "a565071126894c73",
   "lastOpenFiles": [
-    "CBBH/Notes/Exploits/Command Injection.md",
     "CBBH/Notes/Exploits/File Upload Attacks.md",
+    "CBBH/Notes/Exploits/Server-Side Attacks.md",
+    "CBBH/Notes/Exploits/Command Injection.md",
     "CBBH/Cheat Sheets/Login Brute ForcingH.md",
     "CBBH/Pasted image 20241002212303.png",
     "CBBH/Cheat Sheets/File Upload Attacks.md",
