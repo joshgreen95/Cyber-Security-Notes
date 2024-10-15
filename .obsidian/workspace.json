@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBBH/Notes/Exploits/Web Attacks.md",
+                "file": "CBBH/Notes/Exploits/File Inclusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a119cfd1f11b5790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBBH/Notes/Exploits/File Inclusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBBH/Notes/Exploits/Web Attacks.md",
+                "file": "CBBH/Notes/Exploits/File Inclusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBBH/Notes/Exploits/Web Attacks.md",
+                "file": "CBBH/Notes/Exploits/File Inclusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Notes/Exploits/Web Attacks.md"
+                "file": "CBBH/Notes/Exploits/File Inclusion.md"
               }
             }
           },
@@ -157,6 +169,9 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
+    "CBBH/Cheat Sheets/Broken Authentication.md",
+    "CBBH/Notes/Exploits/File Inclusion.md",
+    "CBBH/Cheat Sheets/File Inclusion.md",
     "CBBH/Notes/Exploits/Web Attacks.md",
     "CBBH/Cheat Sheets/Web Attacks.md",
     "CBBH/Notes/Exploits/Broken Authentication.md",
@@ -166,7 +181,6 @@
     "CBBH/Notes/Exploits/File Upload Attacks.md",
     "CBBH/Notes/Exploits/Server-Side Attacks.md",
     "CBBH/imgs/AuthVSAuth.png",
-    "CBBH/Cheat Sheets/Broken Authentication.md",
     "CBBH/Cheat Sheets/Server-Side Attacks.md",
     "CBBH/Cheat Sheets/SQL Injection.md",
     "CBBH/imgs/template_engine_detection.png",
@@ -195,8 +209,6 @@
     "CPTS",
     "CBBH/Cheat Sheets/Google Dorkin.md",
     "CBBH/Cheat Sheets/Requests.md",
-    "CBBH/Cheat Sheets/Javascript Deobfuscation.md",
-    "CBBH/Cheat Sheets/SQLMAP.md",
     "CBBH/Notes/Tools"
   ]
 }
