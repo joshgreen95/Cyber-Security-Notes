@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CBBH/Notes/Exploits/API Attacks.md",
+                "file": "CBBH/Notes/Exploits/File Inclusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "API Attacks"
+              "title": "File Inclusion"
             }
           }
         ]
@@ -175,15 +175,19 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
-    "CBBH/Notes/Exploits/File Inclusion.md",
-    "CBBH/Notes/Exploits/Command Injection.md",
     "CBBH/Notes/Exploits/File Upload Attacks.md",
+    "CBBH/imgs/template_engine_detection.png",
+    "CBBH/Notes/Exploits/File Inclusion.md",
     "CBBH/Notes/Exploits/Web Attacks.md",
-    "CBBH/Notes/Exploits/Server-Side Attacks.md",
-    "CBBH/Notes/Exploits/SQL Injections.md",
-    "CBBH/Notes/Exploits/API Attacks.md",
-    "CBBH/Notes/Exploits/Sessions.md",
     "CBBH/Notes/Exploits/WordPress.md",
+    "CBBH/Notes/Exploits/Command Injection.md",
+    "CBBH/Notes/Exploits/BruteForce.md",
+    "CBBH/Notes/Exploits/SQL Injections.md",
+    "CBBH/Notes/Exploits/XSS.md",
+    "CBBH/Notes/Exploits/Broken Authentication.md",
+    "CBBH/Notes/Exploits/API Attacks.md",
+    "CBBH/Notes/Exploits/Server-Side Attacks.md",
+    "CBBH/Notes/Exploits/Sessions.md",
     "CBBH/Cheat Sheets/WordPress.md",
     "CBBH/Cheat Sheets/File Inclusion.md",
     "CBBH/Cheat Sheets/Requests.md",
@@ -197,12 +201,7 @@
     "CBBH/Cheat Sheets/SQLMAP.md",
     "CBBH/Cheat Sheets/XSS - Cheat Sheet.md",
     "CBBH/Cheat Sheets/Web Attacks.md",
-    "CBBH/Notes/Exploits/Broken Authentication.md",
-    "CBBH/Notes/Exploits/BruteForce.md",
-    "CBBH/Notes/Web Requests/HTTPS.md",
-    "CBBH/Notes/Web Requests/HTTP Requests.md",
     "CBBH/imgs/AuthVSAuth.png",
-    "CBBH/imgs/template_engine_detection.png",
     "CBBH/imgs",
     "Untitled.canvas",
     "Pasted image 20241009001317.png",
