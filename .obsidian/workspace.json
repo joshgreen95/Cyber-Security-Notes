@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Recon/NMAP.md",
+                "file": "CPTS/Notes/Recon/FootPrinting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NMAP"
+              "title": "FootPrinting"
             }
           }
         ]
@@ -175,8 +175,13 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
-    "CPTS/Cheat Sheets/NMAP.md",
+    "CPTS/Notes/Pentesting/Penetration Testing Process.md",
+    "CPTS/Notes/Recon/FootPrinting.md",
+    "CPTS/imgs/Penetration Testing Process.png",
     "CPTS/Notes/Recon/NMAP.md",
+    "CPTS/imgs",
+    "CPTS/Notes/Pentesting",
+    "CPTS/Cheat Sheets/NMAP.md",
     "CPTS/Notes/Recon",
     "CBBH/Notes/Exploits/File Inclusion.md",
     "CBBH/Notes/Exploits/Broken Authentication.md",
@@ -201,8 +206,6 @@
     "CBBH/Cheat Sheets/Javascript Deobfuscation.md",
     "CBBH/Cheat Sheets/Server-Side Attacks.md",
     "CBBH/Cheat Sheets/SQL Injection.md",
-    "CBBH/Cheat Sheets/SQLMAP.md",
-    "CBBH/Cheat Sheets/XSS - Cheat Sheet.md",
     "CBBH/imgs/AuthVSAuth.png",
     "CBBH/imgs",
     "Untitled.canvas",
@@ -213,8 +216,6 @@
     "CPTS/Notes/Windows/AD",
     "CPTS/Notes/Linux",
     "CPTS/Notes/Windows",
-    "CPTS/Cheat Sheets",
-    "CPTS/Notes",
-    "CPTS"
+    "CPTS/Cheat Sheets"
   ]
 }
