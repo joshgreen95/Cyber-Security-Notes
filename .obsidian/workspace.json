@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Exploits/File Transfers.md",
+                "file": "CPTS/Notes/Recon/FootPrinting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "File Transfers"
+              "title": "FootPrinting"
             }
           }
         ]
@@ -175,13 +175,21 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
-    "CPTS/imgs/fig1a-astaroth-attack-chain.webp",
-    "CPTS/Notes/Exploits/File Transfers.md",
-    "CPTS/Notes/Recon/FootPrinting.md",
-    "CPTS/Notes/Exploits",
-    "CPTS/Notes/Pentesting/Penetration Testing Process.md",
-    "CPTS/imgs/Penetration Testing Process.png",
     "CPTS/Notes/Recon/NMAP.md",
+    "CPTS/imgs/Pentest Structure.png",
+    "CPTS/imgs/Penetration Testing Process.png",
+    "CPTS/imgs/fig1a-astaroth-attack-chain.webp",
+    "CPTS/imgs/Enumeration.png",
+    "Pasted image 20241112160117 1.png",
+    "CPTS/Notes/Recon/FootPrinting.md",
+    "CPTS/Cheat Sheets/File Transfers.md",
+    "CPTS/Cheat Sheets/Footprinting.md",
+    "CPTS/Cheat Sheets/Metasploit.md",
+    "CPTS/Notes/Exploits/Metasploit.md",
+    "CPTS/Notes/Pentesting/Report Writing.md",
+    "CPTS/Notes/Pentesting/Penetration Testing Process.md",
+    "CPTS/Notes/Exploits/File Transfers.md",
+    "CPTS/Notes/Exploits",
     "CPTS/imgs",
     "CPTS/Notes/Pentesting",
     "CPTS/Cheat Sheets/NMAP.md",
@@ -202,11 +210,6 @@
     "CBBH/Cheat Sheets/WordPress.md",
     "CBBH/Cheat Sheets/File Inclusion.md",
     "CBBH/Cheat Sheets/Requests.md",
-    "CBBH/Cheat Sheets/Google Dorkin.md",
-    "CBBH/Cheat Sheets/Login Brute ForcingH.md",
-    "CBBH/Cheat Sheets/File Upload Attacks.md",
-    "CBBH/Cheat Sheets/FFUF.md",
-    "CBBH/Cheat Sheets/Javascript Deobfuscation.md",
     "CBBH/imgs/AuthVSAuth.png",
     "CBBH/imgs",
     "Untitled.canvas",
