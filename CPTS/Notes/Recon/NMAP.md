@@ -1,6 +1,5 @@
 Enumeration is the most critical part of pen testing. It gives us a strong foundation to work from and allows us to see services running on a machine. The more information we have the more vectors of attack we have.
 
-
 --top-ports scan the most common top ports.
 To be able to track how our sent packets are handled, we deactivate the ICMP echo requests (`-Pn`), DNS resolution (`-n`), and ARP ping scan (`--disable-arp-ping`) again.
 

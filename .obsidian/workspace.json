@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Recon/FootPrinting.md",
+                "file": "CPTS/Notes/Exploits/Shells and Payloads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FootPrinting"
+              "title": "Shells and Payloads"
             }
           }
         ]
@@ -175,13 +175,15 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
+    "CPTS/Notes/Recon/FootPrinting.md",
+    "CPTS/Notes/Exploits/Shells and Payloads.md",
     "CPTS/Notes/Recon/NMAP.md",
+    "Pasted image 20241115003247.png",
     "CPTS/imgs/Pentest Structure.png",
     "CPTS/imgs/Penetration Testing Process.png",
     "CPTS/imgs/fig1a-astaroth-attack-chain.webp",
     "CPTS/imgs/Enumeration.png",
     "Pasted image 20241112160117 1.png",
-    "CPTS/Notes/Recon/FootPrinting.md",
     "CPTS/Cheat Sheets/File Transfers.md",
     "CPTS/Cheat Sheets/Footprinting.md",
     "CPTS/Cheat Sheets/Metasploit.md",
