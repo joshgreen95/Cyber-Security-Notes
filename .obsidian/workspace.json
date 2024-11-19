@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Exploits/Shells and Payloads.md",
+                "file": "CPTS/Notes/Exploits/Password Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shells and Payloads"
+              "title": "Password Attacks"
             }
           }
         ]
@@ -175,10 +175,15 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
-    "CPTS/Notes/Recon/FootPrinting.md",
+    "CPTS/Cheat Sheets/Password Attacks.md",
+    "CPTS/Notes/Exploits/Password Attacks.md",
+    "Pasted image 20241119025220.png",
     "CPTS/Notes/Exploits/Shells and Payloads.md",
+    "CPTS/Notes/Exploits/Metasploit.md",
+    "CPTS/imgs/Windows Authentication.png",
+    "CPTS/imgs/DNS.png",
+    "CPTS/Notes/Recon/FootPrinting.md",
     "CPTS/Notes/Recon/NMAP.md",
-    "Pasted image 20241115003247.png",
     "CPTS/imgs/Pentest Structure.png",
     "CPTS/imgs/Penetration Testing Process.png",
     "CPTS/imgs/fig1a-astaroth-attack-chain.webp",
@@ -187,7 +192,6 @@
     "CPTS/Cheat Sheets/File Transfers.md",
     "CPTS/Cheat Sheets/Footprinting.md",
     "CPTS/Cheat Sheets/Metasploit.md",
-    "CPTS/Notes/Exploits/Metasploit.md",
     "CPTS/Notes/Pentesting/Report Writing.md",
     "CPTS/Notes/Pentesting/Penetration Testing Process.md",
     "CPTS/Notes/Exploits/File Transfers.md",
@@ -210,13 +214,9 @@
     "CBBH/Notes/Exploits/Server-Side Attacks.md",
     "CBBH/Notes/Exploits/Sessions.md",
     "CBBH/Cheat Sheets/WordPress.md",
-    "CBBH/Cheat Sheets/File Inclusion.md",
-    "CBBH/Cheat Sheets/Requests.md",
     "CBBH/imgs/AuthVSAuth.png",
     "CBBH/imgs",
     "Untitled.canvas",
-    "Pasted image 20241009001317.png",
-    "CBBH/Pasted image 20241002212303.png",
     "CPTS/Cheat Sheets/Windows",
     "CPTS/Cheat Sheets/Linux",
     "CPTS/Notes/Windows/AD",

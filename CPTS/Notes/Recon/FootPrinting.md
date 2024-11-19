@@ -177,7 +177,7 @@ unmount with *unmount*
 |`Forwarding Server`|Forwarding servers perform only one function: they forward DNS queries to another DNS server.|
 |`Resolver`|Resolvers are not authoritative DNS servers but perform name resolution locally in the computer or router.|
 DNS mainly unencrypted
-![[Pasted image 20241115003247.png]]
+![[DNS.png]]
 
 |**DNS Record**|**Description**|
 |---|---|
