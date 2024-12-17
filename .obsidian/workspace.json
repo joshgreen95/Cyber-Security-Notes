@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Recon/FootPrinting.md",
+                "file": "CPTS/Notes/Exploits/Exploiting Common Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FootPrinting"
+              "title": "Exploiting Common Services"
             }
           }
         ]
@@ -175,19 +175,20 @@
   },
   "active": "f80282b7e599b38c",
   "lastOpenFiles": [
-    "CPTS/Cheat Sheets/Footprinting.md",
+    "CPTS/Notes/Exploits/File Transfers.md",
+    "CPTS/Cheat Sheets/Password Attacks.md",
     "CPTS/Notes/Exploits/Exploiting Common Services.md",
-    "Pasted image 20241205031818.png",
+    "CPTS/imgs/CVEID.png",
+    "CPTS/imgs/VulnerabliltyDevelopment.png",
+    "CPTS/imgs/NetworkVulnerabilityAssessment.png",
+    "CPTS/Notes/Useful.md",
+    "CPTS/Notes/Recon/FootPrinting.md",
+    "CPTS/Cheat Sheets/Footprinting.md",
     "CPTS/Notes/Pentesting/Vulnerability Assessment.md",
-    "Pasted image 20241204030736.png",
-    "Pasted image 20241203050149.png",
     "CPTS/imgs/ptvsva.png",
     "CPTS/Notes/Recon/NMAP.md",
     "CPTS/Notes/Exploits/Password Attacks.md",
-    "CPTS/Notes/Exploits/File Transfers.md",
-    "CPTS/Cheat Sheets/Password Attacks.md",
     "CPTS/Cheat Sheets/NMAP.md",
-    "CPTS/Notes/Recon/FootPrinting.md",
     "CBBH/Notes/Exploits/API Attacks.md",
     "CBBH/Notes/Exploits/Broken Authentication.md",
     "CBBH/Notes/Exploits/BruteForce.md",
@@ -203,9 +204,7 @@
     "CBBH/Notes/Information Gathering/Recon.md",
     "CBBH/Notes/Tools/SQL MAP.md",
     "CBBH/Notes/Web Requests/HTTP Requests.md",
-    "CBBH/Notes/Web Requests/HTTPS.md",
     "CPTS/imgs/Windows Authentication.png",
-    "CPTS/Notes/Exploits/Metasploit.md",
     "CPTS/imgs/fig1a-astaroth-attack-chain.webp",
     "CPTS/imgs/Pasted image 20241119025220.png",
     "CPTS/imgs/LSASS_taskmanager_dump.png",
