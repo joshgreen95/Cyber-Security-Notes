@@ -4,3 +4,6 @@ chmod 600
 ssh ip -i
 ```
 
+***When using smtp-user-enum  USE ALL 3***
+`VRFY` `RCPT` `EXPN`
+
