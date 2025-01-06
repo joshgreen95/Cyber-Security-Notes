@@ -7,3 +7,7 @@ ssh ip -i
 ***When using smtp-user-enum  USE ALL 3***
 `VRFY` `RCPT` `EXPN`
 
+***Remember NMAP can Scan UDP***
+```
+nmap -sU IP
+```

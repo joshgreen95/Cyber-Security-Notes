@@ -1,0 +1,2 @@
+#### SOCKS
+*SOCKS* is an Internet Protocol that exchanges *Network Packets* between a client and a server through a proxy. A *SOCKS* server proxies *TCP* connections to an arbitrary IP Address, and provides a means for *UDP* Packets to be forwarded. 
