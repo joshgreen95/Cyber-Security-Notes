@@ -65,7 +65,7 @@ In situations where we may want to limit our traffic i.e. *Domain Controller* wi
 
 We can then add interesting machines to a list (`computers.txt`) and rerun *SharpHound* in *ComputerOnly* using the `--computerfile` options to only enumerate those computers.
 
-![[Pasted image 20250114011734.png]]
+![[sharhound.png]]
 #### Commonly Used Flags
 - `-ldapusername` `-ldappassword` options to run *SharpHound* using captured credentials.
 - `-domain` Used to specify specific domains.
