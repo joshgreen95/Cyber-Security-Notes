@@ -140,14 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Inclusion.md"
+                "file": "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File Inclusion"
+              "title": "Outline of Linux Privilege Escalations"
             }
           },
           {
-            "id": "97d90b77ac56b399",
+            "id": "f00bbdc4558000e4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -174,8 +177,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a49a97076c3366bf",
+  "active": "f5340a2f576e8337",
   "lastOpenFiles": [
+    "README.md",
     "CPTS/Cheat Sheets/Linux Privilege Escalation.md",
     "CPTS/Notes/Useful.md",
     "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
@@ -218,7 +222,6 @@
     "CBBH/Notes/Information Gathering/Recon.md",
     "CPTS/Cheat Sheets/Password Attacks.md",
     "CPTS/Notes/Pentesting/Vulnerability Assessment.md",
-    "CPTS/Notes/Recon/NMAP.md",
     "CPTS/Notes/Exploits",
     "CPTS/imgs",
     "CPTS/Notes/Pentesting",
