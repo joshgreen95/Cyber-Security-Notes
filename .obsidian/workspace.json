@@ -11,13 +11,14 @@
             "id": "b48204612996e453",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Useful.md",
-                "staged": true
+                "file": "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Useful)"
+              "icon": "lucide-file",
+              "title": "Introduction to Windows Privilege Escalation"
             }
           }
         ]
@@ -173,7 +174,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b48204612996e453",
+  "active": "97d90b77ac56b399",
   "lastOpenFiles": [
     "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
     "Windows_Auth_Process.png",
