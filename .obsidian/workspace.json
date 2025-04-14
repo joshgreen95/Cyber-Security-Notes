@@ -8,17 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a49a97076c3366bf",
+            "id": "b48204612996e453",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
-                "mode": "source",
-                "source": false
+                "file": "CPTS/Notes/Useful.md",
+                "staged": true
               },
-              "icon": "lucide-file",
-              "title": "Attacking Enterprise Networks"
+              "icon": "git-pull-request",
+              "title": "Diff View (Useful)"
             }
           }
         ]
@@ -174,10 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a49a97076c3366bf",
+  "active": "b48204612996e453",
   "lastOpenFiles": [
     "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+    "Windows_Auth_Process.png",
+    "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
+    "conflict-files-obsidian-git.md",
     "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
+    "CPTS/Cheat Sheets/Introduction to Windows Privilege Escalation.md",
     "CPTS/Cheat Sheets/Linux Privilege Escalation.md",
     "CPTS/Notes/Useful.md",
     "CPTS/Notes/Exploits/Metasploit.md",
@@ -203,7 +206,6 @@
     "CPTS/imgs/Plink.png",
     "CPTS/imgs/Proxifier.png",
     "CPTS/imgs/ReversePortForwarding.png",
-    "CPTS/imgs/Socat.png",
     "CPTS/Cheat Sheets/Footprinting.md",
     "CPTS/Notes/Recon/FootPrinting.md",
     "CPTS/Notes/Exploits/Exploiting Common Services.md",
@@ -215,10 +217,6 @@
     "CPTS/Cheat Sheets/Windows Privilege Escalation.md",
     "CPTS/Cheat Sheets/Introduction to Pivoting, Tunneling and Port Forwarding.md",
     "CPTS/Notes/Definitions.md",
-    "CPTS/Cheat Sheets/Attacking Common Services.md",
-    "CBBH/Notes/Information Gathering/Recon.md",
-    "CPTS/Cheat Sheets/Password Attacks.md",
-    "CPTS/Notes/Pentesting/Vulnerability Assessment.md",
     "CPTS/Notes/Exploits",
     "CPTS/imgs",
     "CPTS/Notes/Pentesting",
