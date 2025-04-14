@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+                "file": "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux Privilege Escalations"
+              "title": "Attacking Enterprise Networks"
             }
           }
         ]
@@ -140,17 +140,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "CBBH/Notes/Exploits/File Inclusion.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Linux Privilege Escalations"
+              "title": "Outline of File Inclusion"
             }
           },
           {
-            "id": "f00bbdc4558000e4",
+            "id": "97d90b77ac56b399",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -179,10 +176,10 @@
   },
   "active": "a49a97076c3366bf",
   "lastOpenFiles": [
-    "README.md",
+    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+    "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
     "CPTS/Cheat Sheets/Linux Privilege Escalation.md",
     "CPTS/Notes/Useful.md",
-    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
     "CPTS/Notes/Exploits/Metasploit.md",
     "CPTS/Notes/Exploits/Introduction to Pivoting, Tunneling, and Port Forwarding.md",
     "CBBH/Cheat Sheets/Command Injection.md",
