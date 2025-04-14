@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b48204612996e453",
+            "id": "a49a97076c3366bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -140,14 +140,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBBH/Notes/Exploits/File Inclusion.md"
+                "file": "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of File Inclusion"
+              "title": "Outline of Linux Privilege Escalations"
             }
           },
           {
-            "id": "97d90b77ac56b399",
+            "id": "f00bbdc4558000e4",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -174,18 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97d90b77ac56b399",
+  "active": "a49a97076c3366bf",
   "lastOpenFiles": [
-    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
-    "Windows_Auth_Process.png",
+    "CPTS/Notes/Exploits/File Transfers.md",
     "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
-    "conflict-files-obsidian-git.md",
+    "Windows_Auth_Process.png",
     "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
-    "CPTS/Cheat Sheets/Introduction to Windows Privilege Escalation.md",
-    "CPTS/Cheat Sheets/Linux Privilege Escalation.md",
-    "CPTS/Notes/Useful.md",
-    "CPTS/Notes/Exploits/Metasploit.md",
     "CPTS/Notes/Exploits/Introduction to Pivoting, Tunneling, and Port Forwarding.md",
+    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+    "CPTS/Cheat Sheets/Introduction to Windows Privilege Escalation.md",
+    "CPTS/Cheat Sheets/Introduction to Pivoting, Tunneling and Port Forwarding.md",
+    "CPTS/Notes/Useful.md",
+    "CPTS/Notes/Definitions.md",
+    "README.md",
+    "CPTS/Cheat Sheets/Linux Privilege Escalation.md",
+    "CPTS/Notes/Exploits/Metasploit.md",
     "CBBH/Cheat Sheets/Command Injection.md",
     "CPTS/Notes/Pentesting/Penetration Testing Process.md",
     "CAPE/imgs/sharhound.png",
@@ -210,14 +216,11 @@
     "CPTS/Cheat Sheets/Footprinting.md",
     "CPTS/Notes/Recon/FootPrinting.md",
     "CPTS/Notes/Exploits/Exploiting Common Services.md",
-    "CPTS/Notes/Exploits/File Transfers.md",
     "CPTS/Cheat Sheets/File Transfers.md",
     "CPTS/Notes/Exploits/Windows Privilege Escalation.md",
     "CPTS/Notes/Exploits/Shells and Payloads.md",
     "CPTS/Notes/Exploits/Password Attacks.md",
     "CPTS/Cheat Sheets/Windows Privilege Escalation.md",
-    "CPTS/Cheat Sheets/Introduction to Pivoting, Tunneling and Port Forwarding.md",
-    "CPTS/Notes/Definitions.md",
     "CPTS/Notes/Exploits",
     "CPTS/imgs",
     "CPTS/Notes/Pentesting",
