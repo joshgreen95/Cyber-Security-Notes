@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e201d26d3aba7705",
+        "id": "68ee8b6082a4ae8f",
         "type": "tabs",
         "children": [
           {
-            "id": "f35327742650d6b0",
+            "id": "a49a97076c3366bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -177,17 +177,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f35327742650d6b0",
+  "active": "a49a97076c3366bf",
   "lastOpenFiles": [
-    "CPTS/Notes/Exploits/Introduction to Pivoting, Tunneling, and Port Forwarding.md",
     "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
-    "CPTS/Notes/Exploits/Exploiting Common Services.md",
     "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
-    "CPTS/Cheat Sheets/Introduction to Pivoting, Tunneling and Port Forwarding.md",
-    "CPTS/Cheat Sheets/Attacking Common Services.md",
-    "CBBH/Cheat Sheets/File Upload Attacks.md",
-    "CBBH/Cheat Sheets/XSS - Cheat Sheet.md",
+    "CBBH/Cheat Sheets/FFUF.md",
+    "CBBH/Cheat Sheets/Login Brute ForcingH.md",
     "CPTS/Notes/Exploits/File Transfers.md",
+    "CPTS/Notes/Exploits/Exploiting Common Services.md",
     "CPTS/Notes/Exploits/Attacking Enterprise Networks.md",
     "CAPE/Tools/BloodHound.md",
     "CBBH/Notes/Exploits/API Attacks.md",
@@ -204,7 +201,10 @@
     "CBBH/Notes/Exploits/XSS.md",
     "CBBH/Notes/Information Gathering/Recon.md",
     "CBBH/Notes/Tools/SQL MAP.md",
+    "CPTS/Notes/Exploits/Introduction to Pivoting, Tunneling, and Port Forwarding.md",
     "CPTS/Notes/Exploits/Metasploit.md",
+    "CPTS/Notes/Exploits/Password Attacks.md",
+    "CPTS/Notes/Exploits/Shells and Payloads.md",
     "Windows_Auth_Process.png",
     "CAPE/imgs/sharhound.png",
     "CAPE/imgs/NodeMap.png",
