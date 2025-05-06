@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
+                "file": "CPTS/Notes/Exploits/Active Directory Enumeration & Attacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Windows Privilege Escalation"
+              "title": "Active Directory Enumeration & Attacks"
             }
           }
         ]
@@ -179,8 +179,10 @@
   },
   "active": "a49a97076c3366bf",
   "lastOpenFiles": [
-    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
+    "CPTS/Cheat Sheets/Active Directory Enumeration & Attacks.md",
+    "CPTS/Notes/Exploits/Active Directory Enumeration & Attacks.md",
     "CPTS/Notes/Exploits/Introduction to Windows Privilege Escalation.md",
+    "CPTS/Notes/Exploits/Linux Privilege Escalations.md",
     "CBBH/Cheat Sheets/FFUF.md",
     "CBBH/Cheat Sheets/Login Brute ForcingH.md",
     "CPTS/Notes/Exploits/File Transfers.md",
@@ -203,8 +205,6 @@
     "CBBH/Notes/Tools/SQL MAP.md",
     "CPTS/Notes/Exploits/Introduction to Pivoting, Tunneling, and Port Forwarding.md",
     "CPTS/Notes/Exploits/Metasploit.md",
-    "CPTS/Notes/Exploits/Password Attacks.md",
-    "CPTS/Notes/Exploits/Shells and Payloads.md",
     "Windows_Auth_Process.png",
     "CAPE/imgs/sharhound.png",
     "CAPE/imgs/NodeMap.png",
