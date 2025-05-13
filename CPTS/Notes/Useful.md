@@ -20,3 +20,9 @@ find / -path /proc -prune -o -type f -perm -o+w 2>/dev/null
 ##### What to do with SSH Key file
 `chmod 600`
 `ssh -i file username@ip`
+
+#### Responder logs are saved here 
+```
+/usr/share/responder/logs
+```
+
